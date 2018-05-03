@@ -1,0 +1,128 @@
+body
+{
+	background: url("../assets/film.jpg");
+	background-repeat: repeat-y;
+	background-size: 100%;
+}
+
+h1
+{
+	color: #cc0000;
+	margin-left: 40%;
+	margin-bottom: 10%;
+}
+
+.logout
+{
+	text-decoration: none;
+	color: white;
+	text-shadow: 1px 1px black;
+}
+
+.link
+{
+	text-decoration: none;
+	text-align: center;
+	color : white;
+	background-color: #cc0000;
+	font-size: 20px;
+	display: inline-block;
+	padding: 2%;
+	margin-left: 25%;
+}
+
+h2, .bigbutton
+{
+	color: white;
+	text-shadow: 1px 1px black;
+}
+
+label, p, div
+{
+	color: #cc0000;
+	font-weight: bold;
+}
+
+strong
+{
+	color: transparent;
+}
+
+strong:hover
+{
+	color: #cc0000;
+	font-weight: bold;
+}
+
+.align
+{
+	display: inline-block;
+	width: 120px;
+}
+
+input
+{
+	border: solid 1px #cc0000;
+	margin: 2px;
+}
+
+.button
+{
+	color: white;
+	background-color: red;
+	border: solid 1px #cc0000;
+	margin-top: 10px;
+	cursor: pointer;
+}
+
+.bigbutton
+{
+	font-size: 50px;
+	border-color: white;
+	background-image: url("../assets/film.jpg");
+	background-size: 100%;
+	margin-left: 45%;
+	size: 500px;
+	cursor: pointer;
+}
+
+table
+{
+	border: 5px solid black;
+	background-color: black;
+	color: white;
+}
+
+.td{
+    background-image: url("../assets/banner.jpg");
+    background-size: 100%;
+    color: black;
+    padding: 7px 7px 7px 10px;
+}
+
+.td2{
+    
+    border-top: double 5px white;
+    padding: 0px 10px 0px 10px;
+}
+
+.films
+{
+	color: black;
+    background-color: white;
+    margin: 1px;
+    float: left;
+    margin: 5px;
+}
+
+.profil
+{
+	margin-left: 5%;
+}
+
+.bloc
+{
+	float:left;
+	margin-left: 5%;
+	margin-right: 5%;
+}
